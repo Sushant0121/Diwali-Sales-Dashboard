@@ -17,6 +17,7 @@ This Power BI dashboard analyzes sales performance during the Diwali festival se
 - DAX (Calculated Metrics)
 
 ## 📁 Files Included:
-- `Diwali Sales Dashboard.pbix`
-
+- 'Diwali Sales Dashboard.pbix'
+- 'Diwali Festival Sales Analysis.PNG'
+  
 ✅ **Feel free to clone, explore, or suggest improvements.**
